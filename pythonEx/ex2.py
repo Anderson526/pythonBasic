@@ -52,3 +52,14 @@ print(arraycad)
 #repalce() cambia un dato especifico por otro
 
 print(cadenatexto.replace("gusta", "odio"))
+
+#max() min() determina el numero maximo dentro de una cadena de arrays 
+
+numarrays= [23,12,3,4]
+
+
+print(max(numarrays))
+
+print(min(numarrays))
+
+
